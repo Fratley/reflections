@@ -1,0 +1,58 @@
+How does using the DIFF command in Git helps to work on a software development proyect?
+
+Using the FC function helps identify bugs and mistakes much quicker
+than reading line by line, specially if its a big project.
+
+How could having easy access to the entire history of a file make you a more efficient 
+programmer in the long term?
+
+Having an easy access to all the saved version of a working project will help the 
+developers have an understanding of how the project has advanced and will make it easy to recover a 
+lost change, identify mistakes or bugs and retrieve lost ideas.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git,
+vs having versions automatically saved, like Google Docs does?
+
+Having a manual control over the amount of commits I choose to save allows to me to maintain a logical
+sequence of the versions of the file thus making more sense whenever I try to look for a specific
+change.
+
+Why do you think some version control systems, like Git, allow saving multiple files 
+in one commit, while other, like Google Docs, treat each file separately?
+
+Because Git was designed with programming in mind where its common to work on different files
+for the same project at the same time, where areas Google Docs for instance is focused on work
+where its rare to have to update multiple files at the same times like essays or novels.
+
+How can you use the commands git log and git diff to view the history of the files?
+
+To use git log, cd to the corresponding directory and input 'git log --stat', that way
+we can see not only every commit with its id and msg, but also the amount of lines that were 
+added and removed.
+
+How might using version control make you more confident to make changes that could break something?
+
+Using version control allows me to move confident through my work because I will never have
+to be afraid again of messing up without being able to return things to what they were. This way
+there will always be a way to return to a code where everything worked accordingly.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+Since I am planning on developing an Android App, I'll need to keep a close track of all the versions
+of the program I'll be trying to write.  Hopefully, I'll be able to work with other developers
+in the long run, where using Git and GitHub will be very useful.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
