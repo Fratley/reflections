@@ -1,0 +1,4 @@
+When would you want to use a remote repository rather than keeping all your work local?
+
+If I decide to work on my project from another PC or if there's another developer that's working on
+my project with me it would be useful to create new files using a remote repository.
